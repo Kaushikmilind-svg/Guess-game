@@ -1,6 +1,15 @@
-# Simple Guessing Game in Rust
+# 🎯 Number Guessing Game in Rust
 
-- Hey I coded this as a task for my blocksec internship. Use `cargo build` to compile the code and `cargo run` to execute it.
+A simple CLI-based number guessing game written in Rust. The player tries to guess a randomly generated number between 1 and 100. The game gives feedback on each guess until the player guesses correctly.
 
-- Make sure rust and cargo is installed. [Installation steps]    (https://www.rust-lang.org/tools/install)
+## 🛠 Features
 
+- Random number generation
+- User input and input validation
+- Simple loop and match control structures
+- Friendly CLI output
+- Written in idiomatic Rust
+
+## 📦 Prerequisites
+
+Make sure you have **Rust** installed on your system. You can install it from [rust-lang.org](https://www.rust-lang.org/):
